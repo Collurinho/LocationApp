@@ -1,11 +1,15 @@
 # LocationApp
 
-This app developed completely in Jetpack Compose.
+Hello there! This is my first app developed completely in Jetpack Compose.
 
-## Requirements
+## About the project
 
-- Android 10 or more
+This app get position of users on click the button.  
+The position will be update also when user is in moviment, without press another  one time that button.
 
-## Installation
+## Build With
+
+- Android Studio
+- Kotlin
 
 ---------
